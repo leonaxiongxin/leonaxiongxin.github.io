@@ -2,6 +2,7 @@
 
 
 const domain = 'https://xinxiong.netlify.app';
+const userName = 'leonaxiongxin'
 const repoName = 'leonaxiongxin.github.io';
 const githubUrl = 'https://github.com/leonaxiongxin';
 const zhihuUrl = 'https://www.zhihu.com/people/xiong-xin-64-58';
@@ -12,22 +13,12 @@ module.exports = {
   title: 'Xin Xiong',
   tagline: 'Stay curious, stay foolish.',
   url: `https://${repoName}`,
-  baseUrl: '/',
+  baseUrl: `/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'leonaxiongxin', // Usually your GitHub org/user name.
+  organizationName: `${userName}`, // Usually your GitHub org/user name.
   projectName: `${repoName}`, // Usually your repo name.
-  // scripts: [
-  //   {
-  //     src: 'https://cdn.jsdelivr.net/npm/typed.js@2.0.12',
-  //     async: true,
-  //     defer: true,
-  //   },
-  // ],
-  // clientModules: [
-  //   require.resolve('./src/js/customTitle.js'),
-  // ],
   themeConfig: {
     navbar: {
       logo: {
