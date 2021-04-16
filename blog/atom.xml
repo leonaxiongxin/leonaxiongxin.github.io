@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://leonaxiongxin.github.io/blog</id>
+    <title>Xin Xiong Blog</title>
+    <updated>2020-12-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://leonaxiongxin.github.io/blog"/>
+    <subtitle>Xin Xiong Blog</subtitle>
+    <icon>https://leonaxiongxin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Track of 2020]]></title>
+        <id>Track of 2020</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/12/20/Track-of-2020"/>
+        <updated>2020-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果从淘宝或者美团外卖的后台查询我的地址变更记录，我在2020年的迁徙轨迹是“南京—南昌—北京—上海”。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Named Entity Recognition]]></title>
+        <id>After Named Entity Recognition</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/11/01/After-Named-Entity-Recognition"/>
+        <updated>2020-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[指代消解主要有两个步骤。第一步是指代识别（mention detection），即找出句子中所有的指代，这一步相对简单；第二步才是进行真正的指代消解（coreference resolution），这一步比较困难。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variance and Invariance across Platforms]]></title>
+        <id>Variance and Invariance across Platforms</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/08/17/Variance-and-Invariance-across-Platforms"/>
+        <updated>2020-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在这样的时代背景下，无论从资源成本、开发效率，还是从产品迭代、技术演进的角度来看，跨平台开发都是强需求，所以才有了层出不穷的各种跨平台方案探索。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Performance of WebView]]></title>
+        <id>How to Improve Performance of WebView</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/07/31/How-to-Improve-Performance-of-WebView"/>
+        <updated>2020-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在 App 开发中，内嵌 WebView 始终占有着一席之地。它能以较低的成本实现 Android、iOS 和 Web 的复用，也可以冠冕堂皇的突破苹果对热更新的封锁。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export & Import of ES6 Module]]></title>
+        <id>Export &amp; Import of ES6 Module</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/07/29/Export-Import-of-ES6-Module"/>
+        <updated>2020-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么不同形式的模块导入/导出会导致 Tree-shaking 效果不同？]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take a Look at React Components]]></title>
+        <id>Take a Look at React Components</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/06/14/Take-a-Look-at-React-Components"/>
+        <updated>2020-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React 组件知多少...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Global Singleton Loading for Http Requests]]></title>
+        <id>Add Global Singleton Loading for Http Requests</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/06/09/add-global-singleton-loading-for-http-requests"/>
+        <updated>2020-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我有一个美丽的愿望：Don't repeat yourself.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端项目脚手架做了什么？]]></title>
+        <id>前端项目脚手架做了什么？</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/06/07/What-does-FE-CLI-do"/>
+        <updated>2020-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在前端开发的初始阶段，开发者通常只需要关注 HTML, CSS, JavaScript，但是现代化的前端开发已经不仅仅是业务代码本身，涉及方方面面，从流程上来说可以划分为：开发需求、部署需求、线上运维（质量+体验）需求。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node_modules, the Heaviest Object in the Universe]]></title>
+        <id>node_modules, the Heaviest Object in the Universe</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/06/04/node_modules-the-heaviest-object-in-the-universe"/>
+        <updated>2020-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[相信大家在开发中都遇到过这样的问题：同一个项目，在本地开发环境没问题，到线上环境却有问题？那很可能是包管理出了问题。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to IO Using Node]]></title>
+        <id>How to IO Using Node</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/05/25/How-to-IO-Using-Node"/>
+        <updated>2020-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Node 读写文本文件]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modularization of CSS]]></title>
+        <id>Modularization of CSS</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/05/17/Modularization-of-CSS"/>
+        <updated>2020-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BEM]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 的绝对单位、相对单位、最小单位]]></title>
+        <id>CSS 的绝对单位、相对单位、最小单位</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/05/17/CSS 的绝对单位、相对单位、最小单位"/>
+        <updated>2020-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[移动端适配的几大问题：]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug during Mobile Development]]></title>
+        <id>How to Debug during Mobile Development</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/05/13/How-to-Debug-during-Mobile-Development"/>
+        <updated>2020-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RN 调试]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Docker Desktop for Windows]]></title>
+        <id>How to Install Docker Desktop for Windows</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/04/28/How-to-Install-Docker-Desktop-for-Windows"/>
+        <updated>2020-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[之前在eBay实习的时候在Linux / Unix 系统上使用过Docker，由于最近想体验一下Neo4j，在自己的Win10上安装了Docker Desktop，过程中遇到了一些问题，记录一下。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use free GPU on Google Colaboratory]]></title>
+        <id>How to use free GPU on Google Colaboratory</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2020/01/14/How-to-Use-Free-GPU-on-Google-Colaboratory"/>
+        <updated>2020-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prepare]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue Router Dynamic Route Matching]]></title>
+        <id>Vue Router Dynamic Route Matching</id>
+        <link href="https://leonaxiongxin.github.io/leonaxiongxin.github.io/blog/2018/07/07/Vue-Router-Dynamic-Route-Matching"/>
+        <updated>2018-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近在把几个Vue单页面应用合并升级成多页面应用，减少代码冗余和重复打包。由于是在原有的Django结构和Vue-cli配置里塞东西，所以会有很多为了配合Django而产生的配置更改，不具有普遍的移植性，仅供参考。]]></summary>
+    </entry>
+</feed>

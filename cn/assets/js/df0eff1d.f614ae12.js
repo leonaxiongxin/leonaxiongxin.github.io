@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{129:function(n){n.exports=JSON.parse('{"allTagsPath":"/leonaxiongxin.github.io/cn/blog/tags","slug":"node","name":"node","count":2,"permalink":"/leonaxiongxin.github.io/cn/blog/tags/node"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[67],{133:function(n){n.exports=JSON.parse('{"allTagsPath":"/leonaxiongxin.github.io/cn/blog/tags","slug":"design-pattern","name":"design pattern","count":1,"permalink":"/leonaxiongxin.github.io/cn/blog/tags/design-pattern"}')}}]);
