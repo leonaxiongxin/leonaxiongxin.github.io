@@ -4,8 +4,8 @@
   <ShortName>Xin Xiong</ShortName>
   <Description>Search Xin Xiong</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://leonaxiongxin.github.io/leonaxiongxin.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://leonaxiongxin.github.io/leonaxiongxin.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://leonaxiongxin.github.io/leonaxiongxin.github.io/opensearch.xml" />
-  <moz:SearchForm>https://leonaxiongxin.github.io/leonaxiongxin.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://leonaxiongxin.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://leonaxiongxin.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://leonaxiongxin.github.io/opensearch.xml" />
+  <moz:SearchForm>https://leonaxiongxin.github.io/</moz:SearchForm>
 </OpenSearchDescription>

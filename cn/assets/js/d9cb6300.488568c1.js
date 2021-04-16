@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{127:function(o){o.exports=JSON.parse('{"allTagsPath":"/leonaxiongxin.github.io/cn/blog/tags","slug":"docker","name":"docker","count":1,"permalink":"/leonaxiongxin.github.io/cn/blog/tags/docker"}')}}]);

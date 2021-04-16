@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{79:function(n){n.exports=JSON.parse('{"allTagsPath":"/leonaxiongxin.github.io/cn/blog/tags","slug":"nlp","name":"nlp","count":2,"permalink":"/leonaxiongxin.github.io/cn/blog/tags/nlp"}')}}]);
