@@ -1,9 +1,10 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
 
-const domain = 'https://xinxiong.netlify.app';
 const userName = 'leonaxiongxin'
 const repoName = 'leonaxiongxin.github.io';
+const ghDomain = `https://${repoName}`;
+const netlifyDomain = 'https://xinxiong.netlify.app';
 const githubUrl = 'https://github.com/leonaxiongxin';
 const zhihuUrl = 'https://www.zhihu.com/people/xiong-xin-64-58';
 const doubanUrl = 'https://www.douban.com/people/157300719/';
@@ -12,7 +13,7 @@ const linkedinUrl = 'https://www.linkedin.com/in/xinxiong96';
 module.exports = {
   title: 'Xin Xiong',
   tagline: 'Stay curious, stay foolish.',
-  url: `https://${repoName}`,
+  url: `${ghDomain}`,
   baseUrl: `/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
