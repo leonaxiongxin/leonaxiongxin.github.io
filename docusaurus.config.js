@@ -11,7 +11,7 @@ const doubanUrl = 'https://www.douban.com/people/157300719/';
 const linkedinUrl = 'https://www.linkedin.com/in/xinxiong96';
 
 module.exports = {
-  title: 'Xin Xiong',
+  title: 'Xiong Xin',
   tagline: 'Stay curious, stay foolish.',
   url: `${ghDomain}`,
   baseUrl: `/`,
@@ -77,7 +77,7 @@ module.exports = {
           ],
         }
       ],
-      copyright: `Copyright © 2018-${new Date().getFullYear()} Xin Xiong. Built with <a href="https://docusaurus.io/">Docusaurus</a> and 💙.`,
+      copyright: `Copyright © 2018-${new Date().getFullYear()} Xiong Xin. Built with <a href="https://docusaurus.io/">Docusaurus</a> and 💙.`,
     },
     algolia: {
       apiKey: 'YOUR_API_KEY',
@@ -134,6 +134,65 @@ module.exports = {
         trailingSlash: false,
       },
     ],
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // your PWA manifest
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: 'rgb(120, 146, 98)',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/img/logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/img/logo.png',
+            color: 'rgb(37, 194, 160)',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: '/img/logo.png',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
+        ],
+      },
+    ]
   ],
   plugins: [
     'docusaurus-plugin-sass',
