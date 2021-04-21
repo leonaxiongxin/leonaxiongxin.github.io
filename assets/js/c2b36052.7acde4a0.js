@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{120:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"vue-router","name":"vue router","count":1,"permalink":"/blog/tags/vue-router"}')}}]);

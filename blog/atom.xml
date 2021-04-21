@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leonaxiongxin.github.io/blog</id>
-    <title>Xin Xiong Blog</title>
+    <title>Wondering Space Blog</title>
     <updated>2020-12-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leonaxiongxin.github.io/blog"/>
-    <subtitle>Xin Xiong Blog</subtitle>
+    <subtitle>Wondering Space Blog</subtitle>
     <icon>https://leonaxiongxin.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Track of 2020]]></title>
@@ -87,8 +87,8 @@
     <entry>
         <title type="html"><![CDATA[Modularization of CSS]]></title>
         <id>Modularization of CSS</id>
-        <link href="https://leonaxiongxin.github.io/blog/2020/05/17/Modularization-of-CSS"/>
-        <updated>2020-05-17T00:00:00.000Z</updated>
+        <link href="https://leonaxiongxin.github.io/blog/2020/05/15/Modularization-of-CSS"/>
+        <updated>2020-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[BEM]]></summary>
     </entry>
     <entry>

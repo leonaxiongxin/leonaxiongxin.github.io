@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Xin Xiong Blog</title>
+        <title>Wondering Space Blog</title>
         <link>https://leonaxiongxin.github.io/blog</link>
-        <description>Xin Xiong Blog</description>
+        <description>Wondering Space Blog</description>
         <lastBuildDate>Sun, 20 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -86,9 +86,9 @@
         </item>
         <item>
             <title><![CDATA[Modularization of CSS]]></title>
-            <link>https://leonaxiongxin.github.io/blog/2020/05/17/Modularization-of-CSS</link>
+            <link>https://leonaxiongxin.github.io/blog/2020/05/15/Modularization-of-CSS</link>
             <guid>Modularization of CSS</guid>
-            <pubDate>Sun, 17 May 2020 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 15 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[BEM]]></description>
         </item>
         <item>
