@@ -11,7 +11,7 @@ const doubanUrl = 'https://www.douban.com/people/157300719/';
 const linkedinUrl = 'https://www.linkedin.com/in/xinxiong96';
 
 module.exports = {
-  title: 'Xiong Xin',
+  title: 'Space',
   tagline: 'Stay curious, stay foolish.',
   url: `${ghDomain}`,
   baseUrl: `/`,
@@ -138,7 +138,6 @@ module.exports = {
         trailingSlash: false,
       },
     ],
-    ['@docusaurus/plugin-google-gtag'],
     [
       '@docusaurus/plugin-pwa',
       {
