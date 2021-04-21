@@ -11,7 +11,7 @@ const doubanUrl = 'https://www.douban.com/people/157300719/';
 const linkedinUrl = 'https://www.linkedin.com/in/xinxiong96';
 
 module.exports = {
-  title: 'Space',
+  title: 'Wondering Space',
   tagline: 'Stay curious, stay foolish.',
   url: `${ghDomain}`,
   baseUrl: `/`,
