@@ -87,6 +87,10 @@ module.exports = {
       // Optional: Algolia search parameters
       searchParameters: {},
     },
+    gtag: {
+      trackingID: 'UA-167961723-1',
+      anonymizeIP: true,
+    }
   },
   presets: [
     [
@@ -134,6 +138,7 @@ module.exports = {
         trailingSlash: false,
       },
     ],
+    ['@docusaurus/plugin-google-gtag'],
     [
       '@docusaurus/plugin-pwa',
       {
