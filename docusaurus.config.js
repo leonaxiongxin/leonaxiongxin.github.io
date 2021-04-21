@@ -142,7 +142,7 @@ module.exports = {
       {
         debug: true,
         offlineModeActivationStrategies: [
-          'appInstalled',
+          // 'appInstalled',
           'standalone',
           'queryString',
         ],
