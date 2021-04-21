@@ -64,7 +64,7 @@ function Year(
   }
 ) {
   return (
-    <div className="col col--12">
+    <div className="col col--6">
       <h3 className={styles.archiveYearName}>{year}</h3>
       {postList.map(({ month, posts}) => <Month key={`${year}-${month}`} month={month} posts={posts} />)}
     </div>
@@ -105,7 +105,7 @@ function BlogArchive() {
         {yearsOfPostsByMonth && yearsOfPostsByMonth.length > 0 && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
+              <div className={clsx("row")}>
                 {yearsOfPostsByMonth.map(({ year, postList}) => (
                   <Year key={year} year={year} postList={postList} />
                 ))}
