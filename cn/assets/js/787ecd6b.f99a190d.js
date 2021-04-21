@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{112:function(n){n.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"design-pattern","name":"design pattern","count":1,"permalink":"/cn/blog/tags/design-pattern"}')}}]);

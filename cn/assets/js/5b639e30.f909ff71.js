@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{100:function(n){n.exports=JSON.parse('{"allTagsPath":"/cn/blog/tags","slug":"deep-learning","name":"deeplearning","count":1,"permalink":"/cn/blog/tags/deep-learning"}')}}]);
