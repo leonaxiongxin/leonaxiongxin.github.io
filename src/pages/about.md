@@ -27,7 +27,7 @@ My name is Xin Xiong (熊欣), interested at front end development and natural l
 
 ## Publications
 
-[1] <u>**Xiong Xin**</u>, Wang Hao, Deng Sanhong. A study on Term Extraction Model with Transfer Learning for Knowledge Graph of Local Chronicles[J]. Information Studies: Theories & Application, 2021, 44(05).
+[1] <u>**Xiong Xin**</u>, Wang Hao, Deng Sanhong. A study on Term Extraction Model with Transfer Learning for Knowledge Graph of Local Chronicles[J]. Information Studies: Theories & Application, 2021, 44(04):176-185.
 
 [2] <u>**Xiong Xin**</u>, Wang Hao, Su Xining, Deng Sanhong. Analysis and Research on the Differences of Academic Journals Based on Chinese Term Discriminative Capacity[J]. Information Studies: Theories & Application, 2020, 43(05): 115-122+103.
 
