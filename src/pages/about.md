@@ -15,6 +15,10 @@ My name is Xin Xiong (熊欣), interested at front end development and natural l
 
 2014.09 - 2018.06, B.Sc., Nanjing University, Information Management and Information System.
 
+## Experience
+
+2021.07 - Now, Front-end Engineering Intern, Bytedance, Beijing.
+
 ## Internships
 
 2020.11 - 2021.01, Front-end Engineering Intern, Bytedance, Shanghai.
